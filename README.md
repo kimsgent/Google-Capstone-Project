@@ -1,11 +1,27 @@
 # Google Data Analytics Capstone Project
 
-<!-- Compact Skills & Achievements Badges -->
+<!-- Compact Skills, Tools & Credly Badge -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Skills-Data%20Analysis%20%7C%20Visualization-blue?style=flat-square" alt="Skills Badge">
-  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20Tableau-green?style=flat-square" alt="Tools Badge">
-  <img src="https://img.shields.io/badge/Learning-Capstone%20Project-orange?style=flat-square" alt="Learning Badge">
+  <a href="https://www.credly.com/badges/bfd4a6dd-a63e-48d7-9797-c31a28e04060/public_url" target="_blank">
+    <img src="https://www.credly.com/badges/bfd4a6dd-a63e-48d7-9797-c31a28e04060/public_url" alt="Google Data Analytics Badge" style="height:40px;">
+  </a>
+  <a href="https://github.com/kimsgent/project-indexly" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Indexly-blue?style=flat-square" alt="Indexly Repo">
+  </a>
+</p>
+
+<!-- Individual Skill & Tool Badges -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Skill-Data%20Analysis-blue?style=flat-square" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/Skill-Data%20Visualization-green?style=flat-square" alt="Data Visualization">
+  <img src="https://img.shields.io/badge/Skill-Data%20Cleansing-orange?style=flat-square" alt="Data Cleansing">
+  <img src="https://img.shields.io/badge/Skill-Data%20Validation-red?style=flat-square" alt="Data Validation">
+  <img src="https://img.shields.io/badge/Skill-Data%20Storytelling-purple?style=flat-square" alt="Data Storytelling">
+  <img src="https://img.shields.io/badge/Tool-Python-blueviolet?style=flat-square" alt="Python">
+  <img src="https://img.shields.io/badge/Tool-SQL-yellow?style=flat-square" alt="SQL">
+  <img src="https://img.shields.io/badge/Tool-Tableau-lightgrey?style=flat-square" alt="Tableau">
 </p>
 
 ## Overview
@@ -36,10 +52,15 @@ Key highlights:
 During the course, I gained hands-on experience and developed practical skills in data analytics.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Skills-Data%20Analysis%20%7C%20Visualization-blue?style=flat-square" alt="Skills Badge">
-  <img src="https://img.shields.io/badge/Skills-Data%20Cleansing%20%7C%20Validation-green?style=flat-square" alt="Data Badge">
-  <img src="https://img.shields.io/badge/Tools-Python%20%7C%20SQL%20%7C%20Tableau-orange?style=flat-square" alt="Tools Badge">
-  <img src="https://img.shields.io/badge/Outcome-Capstone%20Project-red?style=flat-square" alt="Outcome Badge">
+  <img src="https://img.shields.io/badge/Skill-Data%20Analysis-blue?style=flat-square" alt="Data Analysis">
+  <img src="https://img.shields.io/badge/Skill-Data%20Visualization-green?style=flat-square" alt="Data Visualization">
+  <img src="https://img.shields.io/badge/Skill-Data%20Cleansing-orange?style=flat-square" alt="Data Cleansing">
+  <img src="https://img.shields.io/badge/Skill-Data%20Validation-red?style=flat-square" alt="Data Validation">
+  <img src="https://img.shields.io/badge/Skill-Data%20Storytelling-purple?style=flat-square" alt="Data Storytelling">
+  <img src="https://img.shields.io/badge/Tool-Python-blueviolet?style=flat-square" alt="Python">
+  <img src="https://img.shields.io/badge/Tool-SQL-yellow?style=flat-square" alt="SQL">
+  <img src="https://img.shields.io/badge/Tool-Tableau-lightgrey?style=flat-square" alt="Tableau">
+  <img src="https://img.shields.io/badge/Outcome-Capstone%20Project-red?style=flat-square" alt="Capstone Project">
 </p>
 
 ### Key Skills Developed
@@ -94,4 +115,3 @@ git clone https://github.com/kimsgent/Google-Capstone-Project.git
 * SQL (Google BigQuery)
 * Kaggle Notebooks
 * GitHub for version control
-
