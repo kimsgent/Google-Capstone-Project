@@ -24,6 +24,22 @@
   <img src="https://img.shields.io/badge/Tool-Tableau-lightgrey?style=flat-square" alt="Tableau">
 </p>
 
+---
+
+## 🔎 Project Revisited with Indexly
+
+This capstone project has been revisited using **Indexly**, a modular statistical analysis tool I developed to address limitations in traditional notebook-based workflows.
+
+The original 2022 analysis relied on R scripts, spreadsheets, and descriptive exploration. The updated work applies structured statistical inference, improved numeric validation, and modular analytical components through Indexly’s CLI-based framework. This revisit introduces deeper inferential analysis of MET values and activity trends, offering a more rigorous and reproducible interpretation of the dataset.
+
+Unlike the initial notebook implementation, the updated analysis was conducted entirely using Indexly’s analytical modules rather than an interactive notebook environment.
+
+- 🔹 **Indexly Repository:** https://github.com/kimsgent/project-indexly  
+- 🔹 **Updated METs Inference Analysis:** https://projectindexly.com/en/inference/mets-analysis/
+
+Readers interested in how Indexly extends and strengthens the analytical depth of this capstone project can explore the updated inference documentation above.
+
+---
 ## Overview
 
 This repository contains my **capstone project** for the Google Data Analytics course. The focus is on analyzing **Fitbit tracker data** to support a **marketing strategy for Bellabeat Global’s Spring product**, using step counts and MET (Metabolic Equivalent of Task) values to measure physical activity.
